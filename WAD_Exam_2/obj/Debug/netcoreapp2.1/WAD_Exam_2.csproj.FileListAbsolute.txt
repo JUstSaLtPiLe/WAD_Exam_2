@@ -32,3 +32,47 @@ C:\Users\VuPhuc\source\repos\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_E
 C:\Users\VuPhuc\source\repos\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.csproj.CopyComplete
 C:\Users\VuPhuc\source\repos\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.Resources.Vietnamese.resources
 C:\Users\VuPhuc\source\repos\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.csproj.GenerateResource.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\bin\Debug\netcoreapp2.1\WAD_Exam_2.deps.json
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\bin\Debug\netcoreapp2.1\WAD_Exam_2.runtimeconfig.json
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\bin\Debug\netcoreapp2.1\WAD_Exam_2.runtimeconfig.dev.json
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\bin\Debug\netcoreapp2.1\WAD_Exam_2.dll
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\bin\Debug\netcoreapp2.1\WAD_Exam_2.pdb
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\bin\Debug\netcoreapp2.1\WAD_Exam_2.Views.dll
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\bin\Debug\netcoreapp2.1\WAD_Exam_2.Views.pdb
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.csprojAssemblyReference.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.csproj.GenerateResource.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.csproj.CoreCompileInputs.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.RazorAssemblyInfo.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.RazorAssemblyInfo.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.AssemblyInfoInputs.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.AssemblyInfo.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.TagHelpers.input.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.TagHelpers.output.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.RazorCoreGenerate.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.RazorTargetAssemblyInfo.cache
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.RazorTargetAssemblyInfo.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.Views.pdb
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.dll
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.pdb
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.csproj.CopyComplete
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\bin\Debug\netcoreapp2.1\en-us\WAD_Exam_2.resources.dll
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.Resources.Views.Users.Create.en-us.resources
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\en-us\WAD_Exam_2.resources.dll
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\bin\Debug\netcoreapp2.1\vi\WAD_Exam_2.resources.dll
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\WAD_Exam_2.Resources.Views.Users.Create.vi.resources
+C:\Users\vutie\Documents\Visual Studio 2017\WAD_Exam_2\WAD_Exam_2\obj\Debug\netcoreapp2.1\vi\WAD_Exam_2.resources.dll

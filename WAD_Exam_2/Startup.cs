@@ -7,7 +7,9 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -37,9 +39,10 @@ namespace WAD_Exam_2
             services.AddDbContext<WADExam2Context>(options =>
                    options.UseSqlServer(Configuration.GetConnectionString("MyConnectionString")));
 
-            services.AddJsonLocalization(options => options.ResourcesPath = "Resources");
-            services.AddMvc().AddViewLocalization();
-            CultureInfo.CurrentCulture = new CultureInfo("en-US");
+            services.AddLocalization(options => options.ResourcesPath = "Resources");
+            services.AddMvc()
+                    .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
+                    .AddDataAnnotationsLocalization();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
@@ -56,16 +59,27 @@ namespace WAD_Exam_2
                 app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();
             }
+            var supportedCultures = new[]
+            {
+                new CultureInfo("en-US"),
+                new CultureInfo("vi"),
+            };
+
+            app.UseRequestLocalization(new RequestLocalizationOptions
+            {
+                DefaultRequestCulture = new RequestCulture("en-US"),
+                SupportedCultures = supportedCultures,
+                SupportedUICultures = supportedCultures
+            });
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
-
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=User}/{action=Index}/{id?}");
+                    template: "{controller=Users}/{action=Create}/{id?}");
             });
         }
     }
